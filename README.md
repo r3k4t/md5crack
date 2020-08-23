@@ -27,7 +27,7 @@ This program can crack md5 hash password and recover md5 hash password.Create yo
 ### Installation ###
 
 <ul>
-<li>Python<li>
+<li>Python</li>
 </ul>
 
 ### Getting started ###
@@ -41,6 +41,7 @@ sudo python md5crack.py
 
 ### Screenshot ###
 
+![Screenshot at 2020-08-23 12-26-58](https://user-images.githubusercontent.com/69615463/90973711-410a0780-e542-11ea-814a-2b2848bfa12b.png)
 
 
 
