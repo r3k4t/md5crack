@@ -22,7 +22,7 @@
          
               MD5 HASH CRACKER                            
 
-This program can crack md5 hash password and recover md5 hash password.Create your own wordlist and crack md5 hash crack.
+This program can crack md5 hash password and recover md5 hash password.Create your own wordlist and crack md5 hash.
 
 ### Installation ###
 
